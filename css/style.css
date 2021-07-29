@@ -1,0 +1,136 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+
+/* .banner .row {
+  height: 70vh;
+} */
+
+.bg-header {
+  background-color: #264653;
+}
+.banner p {
+  font-size: 16px;
+  font-weight: 300;
+  color: white;
+}
+.banner h1 {
+  color: white;
+  font-size: 48px;
+  font-weight: 600;
+}
+.text-responsive {
+  font-size: calc(100% + 3vh) !important;
+}
+.banner a {
+  color: white;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: white !important;
+  font-size: 18px;
+  font-weight: 500;
+}
+.banner .button-design {
+  background-color: #e76f51;
+  color: white;
+  font-size: 16px;
+  font-weight: 600px;
+}
+.button-design {
+  background-color: #e76f51;
+  color: white;
+}
+/* header nav and banner end here */
+
+/* bike feature start here */
+.line {
+  height: 2px;
+  width: 70px;
+  background-color: #e76f51;
+}
+.feature-bike h1, .latest-news h1, .style-says h1{
+      font-size: 48px;
+
+}
+.greyscale img {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+.text-p {
+  color: #e76f51;
+}
+
+.read-more {
+  color: #e76f51;
+  border: 1px solid #e76f51;
+}
+.read-more:hover {
+  background-color: #e76f51;
+  color: white;
+}
+
+/* client says start here */
+.style-says span {
+  color: #e76f51;
+}
+
+.bike1{
+  font-size: 45px;
+}
+form h1{
+  font-size: 35px;
+}
+
+/* cover */
+
+.test img {
+  border: 2px solid white;
+  border-radius: 100%;
+  width: 200px;
+  height: 200px;
+  margin: auto;
+}
+
+.name {
+  color: #23a6f0;
+}
+
+.icon i {
+  color: #e76f51;
+}
+.accordion-body {
+  font-size: 17px;
+  font-weight: 400px;
+}
+.accordion-item {
+  margin: 8px 0px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.accordion-item button {
+  font-size: 17px;
+  font-weight: 400px;
+}
+.form-group input {
+  font-size: 20px;
+}
+/* footer start here */
+.footer {
+  background-color: #0b0d17;
+}
+.footer li {
+  list-style: none;
+  color: white;
+  margin-right: 10px;
+}
+.footer h2 {
+  color: white;
+}
+ol,
+ul {
+  padding-left: 0rem !important;
+}
+/* FOOTER END */
