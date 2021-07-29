@@ -52,8 +52,12 @@
   width: 70px;
   background-color: #e76f51;
 }
-.feature-bike h1, .latest-news h1, .style-says h1{
+.feature-bike h1, .latest-news h1{
       font-size: 48px;
+
+}
+ .style-says h1{
+      font-size: 42px;
 
 }
 .greyscale img {
